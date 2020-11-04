@@ -1,1 +1,5 @@
-# COMP1004
+Application For Network Security Purposes
+
+Product Vision 
+
+In this document I will be describing the Security Dashboard application I will be creating for an Administrator of a network system. This application will provide the users with alerts of possible threats about their system, Current threats with their system, data about the users which have used the network and the status of the condition in which the network is in. This could be done via a webpage which users of the network need to log into to access the Internet. This would allow the Administrator of the network to view how many users are logged in at a time to determine if there will be any performance issues due to an unusual circumstance, such as a large amount of packets are being directed to the server which could cause a crash in the system. This would be useful to the Admin as they could prepare users for a crash before it has happened which could potentially save a lot of work from being lost. This would also highlight to the Admin that there could be an external threat to the network. When high amounts of traffic are present in the network the Admin could receive a notification via email to warn them as quickly as possible. This is a much more effective and efficient method of preparing for a crash in the network. This is just one example of many.  
